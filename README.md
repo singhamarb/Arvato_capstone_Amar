@@ -40,6 +40,7 @@ Once you've chosen a model, you'll use it to make predictions on the campaign da
 As stated above the data for this project is not publicly available. For this reason the notebook and models provided by this repository cannot be used, but are made available to serve as a snapshot of the state of the project at the end
 
 ### Medium Link:
+https://medium.com/@singhamarsd749/dsnd-aravato-capstone-project-18605e91d8e0
 
 
 ### Licensing, Authors, and Acknowledgements
