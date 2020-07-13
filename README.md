@@ -1,30 +1,14 @@
 # Arvato_capstone_Amar
 
 ### Table Of Content:
- - Domain Background
- - Dataset And Inputs
+ - Introduction
+ - Data
  - Project Motivation
- - Instructions
+ - Kaggle Competition
  - Medium Link
  - Licensing, Authors, and Acknowledgements
- 
- 
- 
-### Domain Background
-Arvato Financial Solutions provides professional financial services to renowned international brands as well as respected local businesses - allowing them to leave their credit management to a professional, so they can focus on what matters most for their business.
-The Arvato Financial Solutions team is made up of proven and reliable experts in around 20 countries, including 7,500 IT, analytics, process and legal specialists, dedicated to revealing the advantages of big data, advanced foresight, predictive analytics and strategic consultancy. All employees share one common goal: to make client's credit management run effortlessly and effectively, enabling optimised financial performance. Arvato Financial Solutions can give businesses the best possible platform for growth.
-### Dataset And Inputs
-Four main steps as detailed below:
-In this project we are provided with 4 datasets in total.
-**AZDIAS:** Demographics data for the general population of Germany.<br>
-**CUSTOMERS:** Demographics data for customers of a mail-order company.<br>
-**MAILOUT_TRAIN & MAILOUT_TEST**: Demographics data for individuals who were targets of a marketing campaign.<br>
 
-In addition to the above data, there are two additional meta-data:<br>
-· **DIAS Information Levels** - Attributes 2017.xlsx: a top-level list of attributes and descriptions, organized by informational category<br>
-· **DIAS Attributes** - Values 2017.xlsx: a detailed mapping of data values for each feature in alphabetical order<br>
-
-### Project Motivation:
+### Introduction:
 The project has three major steps: the customer segmentation report, the supervised learning model, and the Kaggle Competition.<br>
 
 **1. Customer Segmentation Report**
@@ -33,11 +17,31 @@ This section will be similar to the corresponding project in Term 1 of the progr
 **2. Supervised Learning Model**
 You'll have access to a third dataset with attributes from targets of a mail order campaign. You'll use the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
 
+### Data:
+Four data sets are there in this project.
+**AZDIAS**<br>
+**CUSTOMERS:** <br>
+**MAILOUT_TRAIN & MAILOUT_TEST**<br>
+
+In addition to the above data, there are two additional meta-data:<br>
+· **DIAS Information Levels** - Attributes 2017.xlsx: a top-level list of attributes and descriptions, organized by informational category<br>
+· **DIAS Attributes** - Values 2017.xlsx: a detailed mapping of data values for each feature in alphabetical order<br>
+
+ ### Project Motivation:
+ In this project, we will analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. You'll use unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. Then, we'll apply what we've learned on a third dataset with demographics information for targets of a marketing campaign for the company, and use a model to predict which individuals are most likely to convert into becoming customers for the company
+
 **3. Kaggle Competition**
 Once you've chosen a model, you'll use it to make predictions on the campaign data as part of a Kaggle Competition. You'll rank the individuals by how likely they are to convert to being a customer, and see how your modeling skills measure up against your fellow students.
+Terms & Conditions
+In addition to Udacity's Terms of Use and other policies, your downloading and use of the AZ Direct GmbH data solely for use in the Unsupervised Learning and Bertelsmann Capstone projects are governed by the following additional terms and conditions. The big takeaways:
 
-### Instructions
-As stated above the data for this project is not publicly available. For this reason the notebook and models provided by this repository cannot be used, but are made available to serve as a snapshot of the state of the project at the end
+You agree to AZ Direct GmbH's General Terms provided below and that you only have the right to download and use the AZ Direct GmbH data solely to complete the data mining task which is part of the Unsupervised Learning and Bertelsmann Capstone projects for the Udacity Data Science Nanodegree program.
+
+You are prohibited from using the AZ Direct GmbH data in any other context.
+
+You are also required and hereby represent and warrant that you will delete any and all data you downloaded within 2 weeks after your completion of the Unsupervised Learning and Bertelsmann Capstone projects and the program.
+
+If you do not agree to these additional terms, you will not be allowed to access the data for this project.
 
 ### Medium Link:
 https://medium.com/@singhamarsd749/dsnd-aravato-capstone-project-18605e91d8e0
