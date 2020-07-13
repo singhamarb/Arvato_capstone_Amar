@@ -25,10 +25,8 @@ Four data sets are there in this project.
 **AZDIAS**<br>
 **CUSTOMERS:** <br>
 **MAILOUT_TRAIN & MAILOUT_TEST**<br>
-
-In addition to the above data, there are two additional meta-data:<br>
-· **DIAS Information Levels** - Attributes 2017.xlsx: a top-level list of attributes and descriptions, organized by informational category<br>
-· **DIAS Attributes** - Values 2017.xlsx: a detailed mapping of data values for each feature in alphabetical order<br>
+**DIAS Information Levels** -<br>
+**DIAS Attributes** <br>
 
  ### Project Motivation:
  In this project, we will analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. You'll use unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. Then, we'll apply what we've learned on a third dataset with demographics information for targets of a marketing campaign for the company, and use a model to predict which individuals are most likely to convert into becoming customers for the company
