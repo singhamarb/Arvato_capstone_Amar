@@ -1,4 +1,4 @@
-# Arvato_capstone_Amar
+# Arvato Customer Segmentation Capstone Project
 
 ### Table Of Content:
  - Introduction
