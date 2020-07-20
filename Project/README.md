@@ -28,11 +28,9 @@ Four data sets are there in this project.
 **DIAS Attributes** <br>
 
  ### Project Motivation:
- In this project, we will analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. You'll use unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. Then, we'll apply what we've learned on a third dataset with demographics information for targets of a marketing campaign for the company, and use a model to predict which individuals are most likely to convert into becoming customers for the company
+Nowdays every company wants to target customers which will buy or use their service and invest money accordingly in campaign so we have done something similarly in this project for Arvato company .This capstone project is about the machine learning technique used to identify customer segment to which the mail must be sent in order to get maximum probablity of customer getting turned towards company mail.<br> Following steps are done in this project: <br>• Data Exploration and Cleaning.<br> • Data Vizualization.<br> • Data Preprocessing.<br> • Supervised Learning -model selection <br>• Model Evaluation and validation. <br>• Model testing/Kagle Competition.
 
-**3. Kaggle Competition**
-Once you've chosen a model, you'll use it to make predictions on the campaign data as part of a Kaggle Competition. You'll rank the individuals by how likely they are to convert to being a customer, and see how your modeling skills measure up against your fellow students.
-Terms & Conditions
+### Terms & Conditions
 In addition to Udacity's Terms of Use and other policies, your downloading and use of the AZ Direct GmbH data solely for use in the Unsupervised Learning and Bertelsmann Capstone projects are governed by the following additional terms and conditions. The big takeaways:
 
 You agree to AZ Direct GmbH's General Terms provided below and that you only have the right to download and use the AZ Direct GmbH data solely to complete the data mining task which is part of the Unsupervised Learning and Bertelsmann Capstone projects for the Udacity Data Science Nanodegree program.
